@@ -1,4 +1,21 @@
-### Hi there 👋
+### Anika Madhu
+
+I am a senior at Rutgers University, New Brunswick. I major in Mathematics with a minor in Computer Science. 
+
+### Skills
+Python
+
+Java
+
+C
+
+SQL
+
+Latex
+
+Jupyter
+
+Eclipse
 
 <!--
 **anikamadhu/anikamadhu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
